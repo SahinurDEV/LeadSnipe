@@ -8,7 +8,7 @@
 
 [![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Install-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/leadsnipe-email-extractor/ndfbblpccbhadnbnfhegjhpefocmilag)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-leadsnipe.netlify.app-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://leadsnipe.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-devSahinur-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devSahinur/LeadSnipe)
+[![GitHub](https://img.shields.io/badge/GitHub-SahinurDEV-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SahinurDEV/LeadSnipe)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 [Features](#features) • [Installation](#installation) • [Usage](#usage) • [Tech Stack](#tech-stack) • [Contributing](#contributing)
@@ -46,7 +46,7 @@ LeadSnipe is a powerful Chrome extension designed for **cold email marketers**, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/devSahinur/LeadSnipe.git
+   git clone https://github.com/SahinurDEV/LeadSnipe.git
    ```
 
 2. **Open Chrome Extensions**
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sahinur Islam**
 
-[![GitHub](https://img.shields.io/badge/GitHub-devSahinur-181717?style=flat-square&logo=github)](https://github.com/devSahinur)
+[![GitHub](https://img.shields.io/badge/GitHub-SahinurDEV-181717?style=flat-square&logo=github)](https://github.com/SahinurDEV)
 [![Portfolio](https://img.shields.io/badge/Portfolio-sahinur.dev-667eea?style=flat-square&logo=vercel)](https://www.sahinur.dev)
 
 </div>
@@ -166,6 +166,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **If you found this useful, please give it a ⭐ on GitHub!**
 
-Made with ❤️ by [Sahinur](https://github.com/devSahinur)
+Made with ❤️ by [Sahinur](https://github.com/SahinurDEV)
 
 </div>

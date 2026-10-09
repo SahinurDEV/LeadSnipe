@@ -66,7 +66,7 @@ If you have questions about this privacy policy, please contact:
 - **Developer:** Sahinur Islam
 - **Email:** infosahinur@gmail.com
 - **Website:** [www.sahinur.dev](https://www.sahinur.dev)
-- **GitHub:** [github.com/devSahinur/LeadSnipe](https://github.com/devSahinur/LeadSnipe)
+- **GitHub:** [github.com/SahinurDEV/LeadSnipe](https://github.com/SahinurDEV/LeadSnipe)
 
 ## Consent
 
