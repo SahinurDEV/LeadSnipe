@@ -17,6 +17,12 @@
 
 ---
 
+## Demo
+
+[![LeadSnipe demo](https://img.youtube.com/vi/yFitaVs8Y8Y/hqdefault.jpg)](https://youtu.be/yFitaVs8Y8Y)
+
+▶️ [Watch the LeadSnipe demo on YouTube](https://youtu.be/yFitaVs8Y8Y)
+
 ## About
 
 LeadSnipe is a powerful Chrome extension designed for **cold email marketers**, **sales teams**, and **lead generation professionals**. Extract, filter, and export emails from any webpage instantly - completely free and privacy-focused.
